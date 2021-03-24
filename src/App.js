@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
       <KimiaButton color="primary" >Primary</KimiaButton>
       <ToastPage /> 
-      <Spinner color="#1d4ed8" className="h-16" />
+      <Spinner color="#1d4ed8" className="h-12" />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
